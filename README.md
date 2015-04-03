@@ -8,7 +8,7 @@ timeline.
 
 Inspired by https://github.com/will/githubprofilecheat2
 
-WTF?
+HUH?
 ====
 
 GitHub has a neat display of historical activity on each user's profile page.
